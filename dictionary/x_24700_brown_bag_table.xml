@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element attributes="live_feed=true" extends="task" label="Brown Bag v2" max_length="40" name="x_24700_brown_bag_table" type="collection"/>
+    <element attributes="live_feed=true" extends="task" label="Brown Bag v3" max_length="40" name="x_24700_brown_bag_table" type="collection"/>
 </database>

@@ -2,11 +2,11 @@
 <record_update table="sys_wizard_answer">
     <sys_wizard_answer action="INSERT_OR_UPDATE">
         <active>true</active>
-        <answer>Brown Bag</answer>
+        <answer>Brown Bag v2</answer>
         <button_label/>
         <dependent_value/>
         <element/>
-        <name>Brown Bag</name>
+        <name>Brown Bag v2</name>
         <next_question/>
         <order>100</order>
         <payload_name/>
@@ -14,19 +14,19 @@
         <roles/>
         <script/>
         <sys_class_name>sys_wizard_answer</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-12-08 08:35:32</sys_created_on>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2017-12-12 12:22:44</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>141992570f320300e42306bce1050ea9</sys_id>
+        <sys_id>e363732c0fc30300e42306bce1050edb</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Brown Bag</sys_name>
+        <sys_name>Brown Bag v2</sys_name>
         <sys_package display_value="Brown Bag App" source="x_24700_brown_bag">5b095e170f320300e42306bce1050e5b</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Brown Bag App">5b095e170f320300e42306bce1050e5b</sys_scope>
-        <sys_update_name>sys_wizard_answer_141992570f320300e42306bce1050ea9</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-12-08 08:35:32</sys_updated_on>
+        <sys_update_name>sys_wizard_answer_e363732c0fc30300e42306bce1050edb</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-12-12 12:22:44</sys_updated_on>
         <table/>
         <target_url>x_24700_brown_bag_table.do</target_url>
         <type>1</type>
