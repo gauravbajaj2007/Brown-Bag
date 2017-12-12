@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Brown Bag App</name>
+        <order/>
+        <roles>x_24700_brown_bag.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-08 08:35:29</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>230952570f320300e42306bce1050e5b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Brown Bag App</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Brown Bag App" source="x_24700_brown_bag">5b095e170f320300e42306bce1050e5b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Brown Bag App">5b095e170f320300e42306bce1050e5b</sys_scope>
+        <sys_update_name>sys_app_application_230952570f320300e42306bce1050e5b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-08 08:35:30</sys_updated_on>
+        <title>Brown Bag App</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
