@@ -25,7 +25,6 @@
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-12-08 08:35:33</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>681992570f320300e42306bce1050ef1</sys_id>
@@ -34,7 +33,6 @@
         <sys_overrides/>
         <sys_package display_value="Brown Bag App" source="x_24700_brown_bag">5b095e170f320300e42306bce1050e5b</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Brown Bag App">5b095e170f320300e42306bce1050e5b</sys_scope>
         <sys_update_name>sys_app_module_681992570f320300e42306bce1050ef1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
